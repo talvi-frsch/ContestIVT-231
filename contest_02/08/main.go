@@ -26,7 +26,7 @@ func isPalindrome(str string) bool {
     }
     return true
 }
-// Мой код
+// Конец моего кода
 
 func main() {
     line, _  := bufio.NewReader(os.Stdin).ReadString('\n')

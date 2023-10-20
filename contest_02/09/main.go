@@ -5,7 +5,7 @@ import (
     "os"
 )
 
-//Мой код
+// Мой код
 import "strconv"
 
 func isLucky(number string) bool {
@@ -24,7 +24,7 @@ func isLucky(number string) bool {
 	
 	return l == r
 }
-//Конец моего кода
+// Конец моего кода
 
 func main() {
     number, _  := bufio.NewReader(os.Stdin).ReadString('\n')

@@ -4,6 +4,7 @@ import (
     "fmt"
     "os"
 )
+
 //Мой код
 import "strconv"
 
@@ -24,6 +25,7 @@ func isLucky(number string) bool {
 	return l == r
 }
 //Конец моего кода
+
 func main() {
     number, _  := bufio.NewReader(os.Stdin).ReadString('\n')
     if isLucky( number[:len(number)-1] ){  // Обрезаем \n в конце строки

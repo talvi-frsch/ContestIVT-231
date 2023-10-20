@@ -26,7 +26,7 @@
 | [20. Аннаграма. 2 числа](./contest_01/20/main.go) | ![](./img/go.png) |
 
 
-|[Контест 2]((https://contest.yandex.ru/contest/52676/problems/)) | Язык |
+|[Контест 2](https://contest.yandex.ru/contest/52676/problems/) | Язык |
 | --- | :-: |
 | [1. Функция. Простое число](./contest_02/01/main.cpp) | ![](./img/cpp.png) |
 | [2. Функция. Выход из лабиринта](./contest_02/02/main.cpp) | ![](./img/cpp.png) |

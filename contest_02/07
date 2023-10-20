@@ -5,7 +5,7 @@ import (
     "os"
 )
 
-// Ваш код будет вставлен сюда
+// Мой код
 import "strings"
 
 func isPalindrome(str string) bool {

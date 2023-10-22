@@ -35,6 +35,17 @@
 | [5. Структура. Комплексное число](./contest_02/05/main.cpp) | ![](./img/cpp.png) |
 | [6. Список студентов](./contest_02/06/main.cpp) | ![](./img/cpp.png) |
 | [8. Функция. Палиндром с игнорированием](./contest_02/08/main.go) | ![](./img/go.png) |
-| [9. Функция. Счастливый билет](./contest_02/09/main.cpp) | ![](./img/go.png) |
+| [9. Функция. Счастливый билет](./contest_02/09/main.cpp) | ![](./img/cpp.png) |
 | [10. Функция. Сдвиг элементов массива](./contest_02/10/main.go) | ![](./img/go.png) |
 | [12. Функция. Сапёр](./contest_02/12/main.go) | ![](./img/go.png) |
+
+|[Контест 3](https://contest.yandex.ru/contest/53504/problems/) | Язык |
+| --- | :-: |
+| [1. Объединить отсортированные последовательности](./contest_03/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Валидатор скобочной последовательности](./contest_03/02/main.cpp) | ![](./img/cpp.png) |
+| [3. Обратная польская нотация](./contest_03/03/main.cpp) | ![](./img/cpp.png) |
+| [4. Общие слова в последовательностях](./contest_03/04/main.cpp) | ![](./img/cpp.png) |
+| [5. Самое частое слово](./contest_03/05/main.cpp) | ![](./img/cpp.png) |
+| [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
+| [8. Какое следующее слово](./contest_03/08/main.go) | ![](./img/go.png) |
+| [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |

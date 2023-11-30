@@ -49,3 +49,8 @@
 | [6. Баланс пользователя](./contest_03/06/main.cpp) | ![](./img/cpp.png) |
 | [8. Какое следующее слово](./contest_03/08/main.go) | ![](./img/go.png) |
 | [9. Подходящая пара чисел](./contest_03/09/main.go) | ![](./img/go.png) |
+
+|[Контест 4](https://contest.yandex.ru/contest/55918/problems/) | Язык |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/01/main.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/02/main.cpp) | ![](./img/cpp.png) |
